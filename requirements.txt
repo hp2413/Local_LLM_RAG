@@ -1,0 +1,10 @@
+langchain
+langchain_community
+chroma
+torch
+ollama
+bs4
+gpt4all
+chromadb
+unstructured
+unstructured[pdf]
